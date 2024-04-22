@@ -1,11 +1,11 @@
 # Pizza-Sales-SQL-Power-BI
 
-## We aim to analyze essential metrics in our pizza sales dataset to extract valuable insights. Our focus is on computing the following key indicators:
+## We aim to analyze essential metrics in our pizza sales dataset to extract valuable insights. Our focus is on computing the following key indicators: <br>
 
-Q1. What is the total revenue of all the pizza orders?
-Q2. What is the average order value?
-Q3. How many pizzas have been sold in total?
-Q4. What is the average price of pizza sold per order?
+Q1. What is the total revenue of all the pizza orders?<br>
+Q2. What is the average order value?<br>
+Q3. How many pizzas have been sold in total?<br>
+Q4. What is the average price of pizza sold per order?<br>
 
 
 
